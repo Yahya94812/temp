@@ -1,0 +1,4 @@
+a.out
+os.doc
+output.txt
+shell.c
