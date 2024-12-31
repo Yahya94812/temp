@@ -1,0 +1,37 @@
+import java.util.Scanner;
+Scanner s = new Scanner;
+s.nextLine();
+s.nextInt();
+s.nextFloat();
+
+StringBuffer str = new StringBuffer();
+str.append("hello"); //not return
+str.capacity(); //return the capacity of StringBuffer
+str.length(); //return length
+str.reverse(); //return reverse string and also change str
+str.replace(i, i+1, substring(i, i+1).toUpperCase());
+
+double x;
+
+//package program
+1.inputValues()
+2.displayArea();
+
+throw new LessBalanceException(amt);
+
+X
+
+5.
+1.void getValues(double length, double width);
+2.double calculate();
+
+6.
+same as above
+square, triangle, circle
+
+7.
+void deposit(int amt);
+void withdraw(int amt);
+void checkBal();
+
+string toString();
